@@ -25,13 +25,9 @@ This is a simple cashier system for a small chain of supermarkets. The system ad
 
 You can run the main script to see an example of how the system works.
 
-1. Navigate to the `app` directory:
+1. Run the `main.rb` script:
   ```sh
-  cd app
-  ```
-2. Run the `main.rb` script:
-  ```sh
-  ruby main.rb
+  ruby app/main.rb
   ```
   This script sets up the products, applies the pricing rules, and simulates scanning items to calculate the total price. The expected output is:
 
