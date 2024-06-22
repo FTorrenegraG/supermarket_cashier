@@ -14,7 +14,7 @@ This is a simple cashier system for a small chain of supermarkets. The system ad
 
 1. Clone the repository:
   ```sh
-  git clone <URL_REPOSITORY>
+  git clone https://github.com/FTorrenegraG/supermarket_cashier
   cd supermarket_cashier
   ```
 2. Install dependencies:
